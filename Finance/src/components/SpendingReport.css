@@ -1,0 +1,131 @@
+ body {
+   font-family: 'Segoe UI', sans-serif;
+   margin: 0;
+   padding: 0;
+   background-color: #f9fafb;
+ }
+
+ .navbar {
+   background-color: white;
+   padding: 1rem 2rem;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+ }
+
+ .navbar-left {
+   display: flex;
+   align-items: center;
+   gap: 0.5rem;
+   font-weight: 600;
+   font-size: 1.2rem;
+ }
+
+ .navbar-right {
+   display: flex;
+   align-items: center;
+   gap: 2rem;
+   font-size: 0.95rem;
+ }
+
+ .navbar-right button {
+   padding: 0.5rem 1rem;
+   background-color: #f3f4f6;
+   border: none;
+   border-radius: 9999px;
+   font-weight: 500;
+   cursor: pointer;
+ }
+
+ .navbar-right img {
+   width: 32px;
+   height: 32px;
+   border-radius: 9999px;
+ }
+
+ .container {
+   padding: 2rem;
+ }
+
+ .header {
+   font-size: 2rem;
+   font-weight: bold;
+   margin-bottom: 1rem;
+ }
+
+ .filters {
+   display: flex;
+   gap: 1rem;
+   margin-bottom: 2rem;
+ }
+
+ .filters button {
+   padding: 0.5rem 1rem;
+   background-color: #e5e7eb;
+   border: none;
+   border-radius: 9999px;
+   cursor: pointer;
+   font-weight: 500;
+ }
+
+ .report-card {
+   background-color: white;
+   border-radius: 1rem;
+   padding: 2rem;
+   max-width: 700px;
+   box-shadow: 0 0 0 1px #e5e7eb;
+ }
+
+ .category-row {
+   display: flex;
+   align-items: center;
+   margin-bottom: 1rem;
+ }
+
+ .category-label {
+   width: 160px;
+   color: #2563eb;
+   font-weight: 500;
+ }
+
+ .bar-container {
+   flex: 1;
+   background-color: #e5e7eb;
+   height: 10px;
+   border-radius: 9999px;
+   overflow: hidden;
+ }
+
+ .bar {
+   height: 100%;
+   background-color: #cbd5e1;
+ }
+
+ .home {
+   width: 20%;
+ }
+
+ .food {
+   width: 25%;
+ }
+
+ .auto {
+   width: 100%;
+ }
+
+ .fitness {
+   width: 30%;
+ }
+
+ .shopping {
+   width: 75%;
+ }
+
+ .travel {
+   width: 70%;
+ }
+
+ .entertainment {
+   width: 35%;
+ }
