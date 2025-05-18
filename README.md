@@ -7,13 +7,11 @@
 A sleek, intuitive, and powerful dashboard to **track**, **analyze**, and **optimize** your personal finances—all in one place. Perfect for individuals who want control over their budget, spending habits, and financial growth.
 
 ---
-
 ## 🖥️ Live Demo
 
-🔗 [**Try the Dashboard Live →**]([https://your-live-demo-link.com](https://iridescent-axolotl-af0256.netlify.app/))
+🔗 [**Try the Dashboard Live →**](https://iridescent-axolotl-af0256.netlify.app/)
 
 ---
-
 ## ✨ Features
 
 - 📊 **Dynamic Spending Visualizations**  
